@@ -95,7 +95,7 @@ def plot_week_mean_rea():
 
 
 
-def plot_week_mean_rea():
+def plot_week_mean_dc():
     figure("Nouveau déces sur une semaine")
     x, y = zip(*valuesDc.items())
     new_x = x[::7]
@@ -123,6 +123,6 @@ plotHospi()
 plotRea()
 plot_week_mean_hospi()
 plot_week_mean_rea()
-plot_week_mean_rea()
+plot_week_mean_dc()
 
 show()
