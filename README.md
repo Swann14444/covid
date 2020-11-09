@@ -1,3 +1,6 @@
+
+Ce projet est un fork de : https://gitlab.com/Nat-Faeeria/admissions-hopital-covid-19-france?fbclid=IwAR2_hCMXEKYU__VrEfsi4BrviJ83pkYPGC4QbuKY17j0Tp62VPUN7BFsXNs
+
 # Afficher les admissions à l'hôpital durant l'épidémie de Covid-19 en France
 
 ## But de l'outil
@@ -13,7 +16,7 @@ L'outil est prévu pour utiliser les données officielles trouvées sur le site
 data.gouv.fr, plus précisément le fichier csv relatif aux nouvelles entrées 
 (contient généralement "nouveaux" dans le nom du fichier)
 
-Le fichier csv fourni date du 11/09/2020
+Le fichier csv fourni date du 21/09/2020
 
 ## Mode d'emploi
 
